@@ -14,7 +14,7 @@ MAINTAINER Maciej Brynski <maciek@brynski.pl>
 # ENV S3_INDEXING_BUCKET druid-indexing
 # ENV S3_ACCESS_KEY      xxxxxxxxxxxx
 # ENV S3_ACCESS_KEY      xxxxxxxxxxxx
-ENV DRUID_VERSION      0.12.3
+ENV DRUID_VERSION      0.15.0
 
 # Druid env variable
 ENV DRUID_XMX          '-'
